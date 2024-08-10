@@ -1,0 +1,2 @@
+# iOSPackageDemo
+这是一个为演示如何用pipeline-iOS-library构建iOS应用的iOS演示项目，其中的Jenkinsfile是为pipeline-iOS-library提供参数配置的，需要使用者根据自己的iOS项目来配置
