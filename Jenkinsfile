@@ -8,8 +8,6 @@ map.put('appName','YourAppNmae')
 map.put('uploadOSSMainPath','oss://yourBucketName/****/YourAppNmae')
 // 下载OSS的主路径，也是图片存放的路径
 map.put('downloadOSSImageMainPath','https://*******/YourAppNmae')
-// iOS项目地址
-map.put('useRepository','https://***************.git')
 // App小图标URL，图片尺寸57x57像素
 map.put('dispalyImageUrl','https://***************/*****.png')
 // App大图标URL，图片尺寸512x512像素
